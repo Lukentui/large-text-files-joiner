@@ -4,7 +4,7 @@ from math import ceil
 
 OUTPUT_FILE:str = "_latest.txt"
 INPUT_DIR:str = "INPUT_TXT"
-CHUNK_SIZE:int = 23046721 # = 9^8 bytes / ~43mb
+CHUNK_SIZE:int = 23046721 # = ~23mb
 
 # methods
 def prep_path(file:str) -> str:
