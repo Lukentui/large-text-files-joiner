@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/lukentui/big-data-files-joiner/badge)](https://www.codefactor.io/repository/github/lukentui/big-data-files-joiner)
+
 # Соединитель больших файлов
 ### Смысл
 Когда я склеивал большие базы mail:pass, столкнулся с тем, что работать с файлами больше ~500мб становится равно сексу с ослом, ну в том плане, что все конечно возможно, но по факту это не реально.
