@@ -23,7 +23,7 @@ def read_in_chunks(file_object):
 
 #main code
 START_AT:float = time()
-print('YA EBAL TVOY MAT` STARTS HIS WORK!')
+print('KURWA STARTS HIS WORK!')
 open(OUTPUT_FILE, 'w').close() # clear output file
 
 # foreach files in INPUT_DIR
